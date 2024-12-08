@@ -20,8 +20,8 @@ Data Preprocessing:
 
 ### Model Configuration & Performance
 - Neural Network Design: 
- - Architecture: The neural network includes three hidden layers, each with a significant number of neurons to optimize accuracy above 75%.
- - Activation Functions: The first layer uses the relu activation function, while subsequent layers apply the sigmoid function to enhance performance.
+  - Architecture: The neural network includes three hidden layers, each with a significant number of neurons to optimize accuracy above 75%.
+  - Activation Functions: The first layer uses the relu activation function, while subsequent layers apply the sigmoid function to enhance performance.
 - Model Results: The model successfully achieved the target performance, with an accuracy surpassing 75%.
 - Transformed the name variable into dummy variables, significantly boosting efficiency despite added computational cost.
 - Introduced a third hidden layer using the sigmoid activation function, further improving the model’s predictions.
