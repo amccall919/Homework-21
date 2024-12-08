@@ -14,9 +14,9 @@ The objective of this analysis is to build a predictive model to assist Alphabet
 ### Results
 Data Preprocessing:
 
-- Target Variable: The target variable for this model is Is-Successful.
-- Feature Variables: The input features include name, application type, affiliation, classification, use case, organization, income, special consideration, status, and ask amount.
-- Excluded Variables: The EIN (Employer Identification Number) column was removed since it does not contribute to the model’s predictions.
+- **Target Variable:** The target variable for this model is Is-Successful.
+- **Feature Variables:** The input features include name, application type, affiliation, classification, use case, organization, income, special consideration, status, and ask amount.
+- **Excluded Variables:** The EIN (Employer Identification Number) column was removed since it does not contribute to the model’s predictions.
 
 ### Model Configuration & Performance
 - Neural Network Design: 
